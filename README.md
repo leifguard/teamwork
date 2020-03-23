@@ -1,3 +1,3 @@
-#Teamwork
+##Teamwork
 
-TeamHub getestet zum gemeinsame coden :)
+TeamHub getestet zum gemeinsamen coden :)
